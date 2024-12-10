@@ -11,6 +11,7 @@
 -->
 
 - 🌱 I'm currently learning [Typescript](https://github.com/microsoft/TypeScript), [Haskell](https://www.haskell.org/), and [Coq](https://github.com/coq/coq) to spark my overall programming knowledge.
+- 🔭 I’m used to learning languages **on the job (best way to learn imo)**, so I consider myself a polyglot generalist.
 - 🔭 I’m currently working on deciding if I should self-study pure math or get a part-time degree! 
 - 👯 I’m looking to collaborate on most things related to functional programming, or libraries related to mathematics, scientific computing or PL theory.
 - 🤔 I’m looking for help with advanced knowledge in FP theory and pure mathematics in general, not specific to any language.
