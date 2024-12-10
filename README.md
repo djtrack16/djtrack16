@@ -10,9 +10,8 @@
 **djtrack16/djtrack16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+- 🌱 I'm currently larning @Typescript, @haskell, and @coq to tighten my overall programming knowledge.
 - 🔭 I’m currently working on deciding if I should self-study pure math or get a part-time degree! 
-- 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate on most things related to functional programming, or libraries related to mathematics, scientific computing or PL theory.
 - 🤔 I’m looking for help with advanced knowledge in FP theory and pure mathematics in general, not specific to any language.
 - 💬 Ask me about philosophy, poetry, olive oil, farming (a few things besides coding :)
