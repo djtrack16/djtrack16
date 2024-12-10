@@ -10,6 +10,7 @@
 **djtrack16/djtrack16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- Current open PRs: [here](https://github.com/TheAlgorithms/Haskell/pull/57) and [here](https://github.com/TheAlgorithms/Haskell/pull/56).
 - 🌱 I'm currently learning [Typescript](https://github.com/microsoft/TypeScript), [Haskell](https://www.haskell.org/), and [Coq](https://github.com/coq/coq) to spark my overall programming knowledge.
 - 🔭 I’m used to learning languages **on the job (best way to learn imo)**, so I consider myself a polyglot generalist.
 - 🔭 I’m currently working on deciding if I should self-study pure math or get a part-time degree! 
